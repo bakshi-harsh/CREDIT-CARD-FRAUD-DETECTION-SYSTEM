@@ -14,16 +14,16 @@ Credit card fraud continues to be a major threat in the financial sector. This p
 - 🖥️ **Flask Web Interface**: User-friendly interface for checking and reviewing flagged transactions.
 - 📊 **Performance Metrics**: Accuracy, Precision, Recall, F1-score, ROC-AUC.
 - 🔍 **Explainability**: Model interpretability using key features like `Amount`, `Time`, and PCA-transformed attributes `V1–V28`.
-
 ---
 
-## 🧠 Machine Learning Approach
+### 📂 Dataset
 
-### 🔬 Dataset
+You can access the dataset used in this project via the following link:
 
-- Public dataset: [European Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-- Transactions: 284,807 total with 492 frauds (0.172%)
-- Features: `Time`, `Amount`, and 28 anonymized PCA components (`V1` to `V28`)
+🔗 Download Dataset from Google Drive:
+
+https://drive.google.com/file/d/1GD3cMcFb1w4pF2AMsYZUZHcMpweNricx/view?usp=sharing
+
 
 ### 🛠 Preprocessing Steps
 
